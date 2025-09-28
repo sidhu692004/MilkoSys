@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1070318297542",
+    "firebase_url": "https://milkosys-3b233-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "milkosys-3b233",
+    "storage_bucket": "milkosys-3b233.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070318297542:android:f0b8d103eca0b78fc212c7",
+        "android_client_info": {
+          "package_name": "com.example.milkosysdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070318297542-p8jd17vj4r70gvnhbn3dg0t5oqd5u8s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milkosysdairy",
+            "certificate_hash": "94e04fd067fdc61a7847ebdd63e6d6a3dbaf45f0"
+          }
+        },
+        {
+          "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxpmkNN8H_SnjiroECOUNq9tAJeEFmKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070318297542:android:14d7740c9b25b966c212c7",
+        "android_client_info": {
+          "package_name": "com.sudhanshu.milkosys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070318297542-3eq49tt4e000h9pdn86ggujdgoeumbd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudhanshu.milkosys",
+            "certificate_hash": "94e04fd067fdc61a7847ebdd63e6d6a3dbaf45f0"
+          }
+        },
+        {
+          "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxpmkNN8H_SnjiroECOUNq9tAJeEFmKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070318297542:android:3ab362dbf9875691c212c7",
+        "android_client_info": {
+          "package_name": "com.sudhanshu.milkosysdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070318297542-bv7lmq2adqjve35stlodl8ihkjftgk53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudhanshu.milkosysdairy",
+            "certificate_hash": "94e04fd067fdc61a7847ebdd63e6d6a3dbaf45f0"
+          }
+        },
+        {
+          "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxpmkNN8H_SnjiroECOUNq9tAJeEFmKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070318297542-gfpag9gjrl0ti6e0nnie4hlgl1ig8v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
